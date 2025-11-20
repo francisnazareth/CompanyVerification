@@ -20,5 +20,7 @@
         public String industry { get; set; }
         public int numberOfEmployees { get; set; }
         public String registrationStatus { get; set; }
+        //add a field for company email.
+        public String companySecondaryEmail { get; set; }
     }
 }
